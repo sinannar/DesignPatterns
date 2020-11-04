@@ -1,7 +1,7 @@
 # Design Patterns
 
 ## Creational Patterns
-* [] [Factory Pattern](https://www.tutorialspoint.com/design_pattern/factory_pattern.htm)
+- [ ] [Factory Pattern](https://www.tutorialspoint.com/design_pattern/factory_pattern.htm)
 
 ## Structural Patterns
 
