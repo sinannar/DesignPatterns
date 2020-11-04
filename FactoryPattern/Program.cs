@@ -4,6 +4,7 @@ namespace FactoryPattern
 {
     class Program
     {
+        //https://www.tutorialspoint.com/design_pattern/factory_pattern.htm
         static void Main(string[] args)
         {
             ShapeFactory shapeFactory = new ShapeFactory();
