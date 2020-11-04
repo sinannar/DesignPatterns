@@ -33,3 +33,6 @@
 
 ## References
 1. https://www.tutorialspoint.com/design_pattern/index.htm
+2. https://www.dofactory.com/net/design-patterns
+3. https://refactoring.guru/design-patterns/csharp
+4. 
