@@ -18,7 +18,7 @@
 - [ ] [Proxy Pattern](https://www.tutorialspoint.com/design_pattern/proxy_pattern.htm)
 
 ## Behavioral Patterns
-- [ ] [Chain of Responsibility Pattern](https://www.tutorialspoint.com/design_pattern/chain_of_responsibility_pattern.htm)
+- [X] [Chain of Responsibility Pattern](https://www.tutorialspoint.com/design_pattern/chain_of_responsibility_pattern.htm)
 - [ ] [Command Pattern](https://www.tutorialspoint.com/design_pattern/command_pattern.htm)
 - [ ] [Interpreter Pattern](https://www.tutorialspoint.com/design_pattern/interpreter_pattern.htm)
 - [ ] [Iterator Pattern](https://www.tutorialspoint.com/design_pattern/iterator_pattern.htm)
