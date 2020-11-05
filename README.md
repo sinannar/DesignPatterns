@@ -8,7 +8,7 @@
 - [ ] [Prototype Pattern](https://www.tutorialspoint.com/design_pattern/prototype_pattern.htm)
 
 ## Structural Patterns
-- [ ] [Adapter Pattern](https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm)
+- [X] [Adapter Pattern](https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm)
 - [ ] [Bridge Pattern](https://www.tutorialspoint.com/design_pattern/bridge_pattern.htm)
 - [ ] [Filter(Criteria) Pattern](https://www.tutorialspoint.com/design_pattern/filter_pattern.htm)
 - [X] [Composite Pattern](https://www.tutorialspoint.com/design_pattern/composite_pattern.htm)
