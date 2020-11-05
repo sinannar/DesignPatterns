@@ -24,7 +24,7 @@
 - [ ] [Iterator Pattern](https://www.tutorialspoint.com/design_pattern/iterator_pattern.htm)
 - [ ] [Mediator Pattern](https://www.tutorialspoint.com/design_pattern/mediator_pattern.htm)
 - [ ] [Memento Pattern](https://www.tutorialspoint.com/design_pattern/memento_pattern.htm)
-- [ ] [Observer Pattern](https://www.tutorialspoint.com/design_pattern/observer_pattern.htm)
+- [X] [Observer Pattern](https://www.tutorialspoint.com/design_pattern/observer_pattern.htm)
 - [ ] [State Pattern](https://www.tutorialspoint.com/design_pattern/state_pattern.htm)
 - [ ] [Null Object Pattern](https://www.tutorialspoint.com/design_pattern/null_object_pattern.htm)
 - [X] [Strategy Pattern](https://www.tutorialspoint.com/design_pattern/strategy_pattern.htm)
